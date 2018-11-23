@@ -7,10 +7,10 @@ client.on('ready', () => {
 });
 
 client.on('ready', async() => { // ولا تعدل شي في اي مكان غير تحت
-var server = "509357857666236430"; // ايدي السررفر اللي بتحط فيه البوت
-var channel = "509357857666236434";//ايدي الروم اللي بسوي فيه سبام البوت
+var server = "514163670742335488"; // ايدي السررفر اللي بتحط فيه البوت
+var channel = "515628320029933598";//ايدي الروم اللي بسوي فيه سبام البوت
     setInterval(()=>{
-    client.guilds.get(server).channels.get(channel).send('```INCR_iSryManYT SPAAAAM ~ INCR_iSryManYT SPAAAAM ~ INCR_iSryManYT SPAAAAM ~ INCR_iSryManYT SPAAAAM ~ INCR_iSryManYT SPAAAAM ~ INCR_iSryManYT SPAAAAM ~ INCR_iSryManYT SPAAAAM ~ INCR_iSryManYT SPAAAAM ~ INCR_iSryManYT SPAAAAM ~ ') 
+    client.guilds.get(server).channels.get(channel).send(' SpamBOT BY TRIX 5k CREDITS 24H SpamBOT BY TRIX 5k CREDITS 24H SpamBOT BY TRIX 5k CREDITS 24H SpamBOT BY TRIX 5k CREDITS 24H SpamBOT BY TRIX 5k CREDITS 24H SpamBOT BY TRIX 5k CREDITS 24H ') 
     },305);
 })
 
